@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">位置模拟器</string>
+    
+    <!-- 通用 -->
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+    <string name="delete">删除</string>
+    <string name="edit">编辑</string>
+    <string name="search">搜索</string>
+    <string name="clear">清除</string>
+    <string name="loading">加载中...</string>
+    
+    <!-- 主界面 -->
+    <string name="current_location">当前位置</string>
+    <string name="latitude">纬度</string>
+    <string name="longitude">经度</string>
+    <string name="address">地址</string>
+    <string name="building">楼栋</string>
+    <string name="street">街道</string>
+    <string name="city">城市</string>
+    <string name="state">省/州</string>
+    <string name="country">国家</string>
+    <string name="postal_code">邮政编码</string>
+    <string name="phone">电话</string>
+    <string name="website">网站</string>
+    <string name="description">描述</string>
+    <string name="category">分类</string>
+    
+    <!-- 状态信息 -->
+    <string name="ready">准备就绪</string>
+    <string name="mocking_location">模拟位置运行中</string>
+    <string name="location_disabled">位置服务未开启</string>
+    <string name="no_permission">位置权限被拒绝</string>
+    
+    <!-- 提示信息 -->
+    <string name="enter_address_hint">请输入详细地址（楼栋、街道、城市等）</string>
+    <string name="enter_name_hint">请输入位置名称</string>
+    <string name="enter_coordinates_hint">请输入经纬度</string>
+    
+    <!-- 错误信息 -->
+    <string name="error_no_location_selected">请先选择或输入一个位置</string>
+    <string name="error_mock_location_disabled">请在开发者选项中启用模拟位置功能</string>
+    <string name="error_invalid_coordinates">经纬度格式不正确</string>
+    <string name="error_address_not_found">未找到地址</string>
+    <string name="error_geocoding_failed">地址解析失败</string>
+    
+    <!-- 按钮文本 -->
+    <string name="get_current_location">获取当前位置</string>
+    <string name="search_address">搜索地址</string>
+    <string name="start_mock">开始模拟</string>
+    <string name="stop_mock">停止模拟</string>
+    <string name="open_location_settings">打开位置设置</string>
+    <string name="open_developer_settings">打开开发者选项</string>
+    
+    <!-- 分类 -->
+    <string name="category_home">家庭</string>
+    <string name="category_work">工作</string>
+    <string name="category_school">学校</string>
+    <string name="category_mall">商场</string>
+    <string name="category_restaurant">餐厅</string>
+    <string name="category_hospital">医院</string>
+    <string name="category_park">公园</string>
+    <string name="category_hotel">酒店</string>
+    <string name="category_airport">机场</string>
+    <string name="category_station">车站</string>
+    <string name="category_custom">自定义</string>
+    
+    <!-- 菜单 -->
+    <string name="menu_saved_locations">已保存位置</string>
+    <string name="menu_import">导入</string>
+    <string name="menu_export">导出</string>
+    <string name="menu_settings">设置</string>
+    <string name="menu_help">帮助</string>
+</resources>
